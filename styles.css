@@ -1,0 +1,21 @@
+body{
+    background-color: #FEE3EC;
+}
+hr{
+        border-style: none;
+        border-top-style: dotted;
+        border-color: grey;
+        border-width: 5px;
+        width:10% ;
+      }
+      h1{
+          text-decoration-line:underline;
+          color: #66BFBF;
+          text-decoration-color: black;
+      }
+      
+        h3 {
+            text-decoration-line: underline;
+          color: #66BFBF;
+          text-decoration-color: red;
+      }
